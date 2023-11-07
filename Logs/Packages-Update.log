@@ -1,0 +1,11 @@
+
+=== Thu Mar 23 12:20:59 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.visualstudio from version 2.0.7 to 2.0.17
+  com.unity.ide.vscode from version 1.2.3 to 1.2.5
+  com.unity.postprocessing from version 3.0.3 to 3.2.2
+  com.unity.textmeshpro from version 3.0.4 to 3.0.6
